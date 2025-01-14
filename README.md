@@ -120,7 +120,7 @@ To set up the backend for the Product Uploader, follow these steps:
 - Click on "Load Unpacked" button and upload unzipped folder.
 
 ### Screenshot of Uploaded Product 
-![Alt text describing the image](./resource/images/Screenshot_2.png)
+![Alt text describing the image](./resource/images/Screenshot.png)
 
 
 > That's it, now you can see a name of you extension list is "Product Import & Upload on Facebook" .
