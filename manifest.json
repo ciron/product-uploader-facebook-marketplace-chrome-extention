@@ -1,0 +1,26 @@
+{
+  "name": "Product Import & Upload on Facebook!",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "description": "It is Use for Take product details from the back end and  Upload a product to French Facebook Marketplace .",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "cookies",
+    "tabs"
+    
+  ],
+  "background": {
+    "service_worker": "/resource/js/background.js"
+  },
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/resource/images/Icon.png",
+      "48": "/resource/images/Icon.png",
+      "128": "/resource/images/Icon.png"
+    }
+  }
+    
+}
