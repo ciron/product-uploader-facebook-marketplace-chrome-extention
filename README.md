@@ -79,6 +79,11 @@ To set up the backend for the Product Uploader, follow these steps:
       Start the Server Run the following command to start the backend server:
       ```bash
       php artisan serve
+   
+----
+### * **Setup database**
+  Create a database on your local/live server then set this credential on .env file . In Database folder we have a sql file name "extension_product.sql" . Import it on your desired database. you will get dammy product details!.
+
 ### 1. **Get Product List**
 
 #### URL
